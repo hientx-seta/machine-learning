@@ -5,3 +5,7 @@
 
 ## Courses: 
 -  https://www.coursera.org/learn/machine-learning/home/welcome 
+
+## Works
+- Optical  Character  Recognition  (OCR)
+- 
